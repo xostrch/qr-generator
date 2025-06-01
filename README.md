@@ -6,7 +6,7 @@ Whether you need a QR code for a website, message, or any string – just type a
 
 ## 🌐 Live Demo
 
-👉 [Try it live on Vercel]([https://your-vercel-link.vercel.app](https://qr-generator-lake-three.vercel.app/)
+👉 [Try it live on Vercel](https://qr-generator-lake-three.vercel.app/)
 
 ## ✨ Features
 
